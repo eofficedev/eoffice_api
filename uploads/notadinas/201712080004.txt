@@ -1,0 +1,9 @@
+Skenario nota dinas:
+
+1. Dari Kepala Bidang Lalu Lintas (Drs. Kadiran) username: kabidlantas
+2. Dibuat oleh Staff Operasional 1 (Bengris Pasaribu) username: 11111
+3. Ditujukan Kepala DisHub (Gaguk Tri Prasetyo) username: kadishub
+4. Diperiksa Ka Seksi Rekayasa Lalu Lintas (Jujuk Nurdiansyah) username: kaseksilantas
+5. Tembusan Sekretaris DisHub (Modjari) username: sekretaris
+
+Password untuk semua user adalah: password
